@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MongoDB](https://www.mongodb.com/) – Document-oriented NoSQL database.
 - [Apache HBase](https://hbase.apache.org/) – NoSQL database built on HDFS.
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) – Managed NoSQL key-value store.
+- [Pixeltable](https://github.com/pixeltable/pixeltable) – Declarative multimodal AI data engine for versioned tables, computed columns, incremental transformation, and vector search.
 - [Redis](https://redis.io/) – In-memory data store for caching and streaming use cases.
 
 ## Data Quality, Governance & Lineage
