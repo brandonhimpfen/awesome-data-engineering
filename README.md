@@ -46,6 +46,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Fivetran](https://www.fivetran.com/) – Managed data connectors for analytics and warehousing.
 - [Singer](https://www.singer.io/) – Open-source standard for data extraction and loading.
 - [Debezium](https://debezium.io/) – Change data capture (CDC) platform for databases.
+- [OLake](https://github.com/datazip-inc/olake) – Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 
 ## Streaming & Event Processing
 
